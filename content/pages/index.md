@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: 'I’m a developer, An ai&vr enthusiast, a prototypist and a dream builder.'
     subtitle: >-
       Hi, I'm David Zhou. This is my info—I’m sharing it all this with ya’ll to
