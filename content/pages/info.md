@@ -209,6 +209,9 @@ sections:
       - type: Label
         label: React
       - type: Label
+        label: React Native
+        url: ''
+      - type: Label
         label: 'WEB 1, 2, 3'
       - type: Label
         label: Microsoft Office
@@ -218,9 +221,6 @@ sections:
         label: Netlify
       - type: Label
         label: Pancakes
-      - type: Label
-        label: React Native
-        url: ''
   - type: DividerSection
     styles:
       self:
