@@ -222,7 +222,7 @@ sections:
       - type: Label
         label: Pancakes
       - type: Label
-        label: Adobe Creative Suite
+        label: PS & AI
         url: ''
   - type: DividerSection
     styles:
