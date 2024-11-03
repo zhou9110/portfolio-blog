@@ -81,7 +81,7 @@
             "phoneAltText": "My phone number",
             "email": "david@aibuild.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "700 Swanston St",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
