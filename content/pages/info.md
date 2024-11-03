@@ -222,7 +222,7 @@ sections:
       - type: Label
         label: Pancakes
       - type: Label
-        label: PS & AI
+        label: Photoshop
         url: ''
   - type: DividerSection
     styles:
