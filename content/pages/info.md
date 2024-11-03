@@ -221,8 +221,6 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Swift
-      - type: Label
         label: React Native
         url: ''
   - type: DividerSection
