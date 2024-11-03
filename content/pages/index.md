@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'I’m a developer, An ai&vr enthusiast and a dream builder.'
+    title: 'I’m a developer, An ai&vr enthusiast, a prototypist and a dream builder.'
     subtitle: >-
       Hi, I'm David Zhou. This is my info—I’m sharing it all this with ya’ll to
       impress you with all the hard work I’ve done in the past few years. Once
