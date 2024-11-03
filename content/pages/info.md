@@ -212,13 +212,13 @@ sections:
         label: React Native
         url: ''
       - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
         label: Microsoft Office
       - type: Label
         label: Next.js
       - type: Label
         label: Netlify
+      - type: Label
+        label: 'WEB 1, 2, 3'
       - type: Label
         label: Pancakes
       - type: Label
