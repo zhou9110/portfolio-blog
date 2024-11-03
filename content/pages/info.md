@@ -221,6 +221,9 @@ sections:
         label: Netlify
       - type: Label
         label: Pancakes
+      - type: Label
+        label: Adobe Creative Suite
+        url: ''
   - type: DividerSection
     styles:
       self:
