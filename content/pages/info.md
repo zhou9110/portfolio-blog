@@ -219,8 +219,6 @@ sections:
       - type: Label
         label: Pancakes
       - type: Label
-        label: C++
-      - type: Label
         label: React Native
         url: ''
   - type: DividerSection
